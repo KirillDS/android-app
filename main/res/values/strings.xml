@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="dice_roller">Dice Roller</string>
+    <string name="generate_value">Generate Value</string>
+    <string name="guess">Guess...</string>
+    <string name="output_here">OUTPUT HERE</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="user_value">user value</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="_0">0</string>
+</resources>
